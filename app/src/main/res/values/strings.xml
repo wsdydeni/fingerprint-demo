@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fingerprint-demo</string>
+    <string name="pleasevefiryyourfinger">请将您的手指放置在识别器上</string>
+    <string name="cancel">取消</string>
+    <string name="password_vefiry">使用密码</string>
+    <string name="login">Login</string>
+    <string name="password_login">Password Login</string>
+    <string name="fingerprint_login">Fingerprint Login</string>
+    <string name="androidx_fingerprint">androidx-fingerprint</string>
+    <string name="use_androidx">Use AndroidX</string>
+</resources>
